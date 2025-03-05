@@ -11,10 +11,14 @@
             "id": "a65e3aa147601235",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ETHICAL HACKING/11. Linux.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "11. Linux"
             }
           }
         ]
@@ -171,6 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "ETHICAL HACKING/11. Linux.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -198,7 +203,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of 11. Linux"
             }
           }
         ]
@@ -218,8 +223,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "03c5a9e12f31d80e",
+  "active": "a65e3aa147601235",
   "lastOpenFiles": [
+    "ETHICAL HACKING/1. Basics.md",
     "LICENSE",
     "README.md",
     "obsidian/README.md",
@@ -236,7 +242,6 @@
     "ETHICAL HACKING/4. Protocols.md",
     "ETHICAL HACKING/3. Ports.md",
     "ETHICAL HACKING/2. Networking.md",
-    "ETHICAL HACKING/1. Basics.md",
     "7.",
     "Ethical Hacking/Untitled",
     "ETHICAL HACKING",
