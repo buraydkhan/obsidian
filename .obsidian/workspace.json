@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "9b0f07654185f61e",
+        "id": "039288e038be6c0b",
         "type": "tabs",
         "children": [
           {
-            "id": "0bbf896ff5411f01",
+            "id": "ec2761e087d12a36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ETHICAL HACKING/14. Tools in Kali Linux.md",
+                "file": "Software Engineering/2. SDLC and SRS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14. Tools in Kali Linux"
+              "title": "2. SDLC and SRS"
+            }
+          },
+          {
+            "id": "467ed94f07ff489f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Engineering/3. Models (Waterfall, Prototype & Spiral).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. Models (Waterfall, Prototype & Spiral)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,7 +190,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ETHICAL HACKING/14. Tools in Kali Linux.md",
+                "file": "Software Engineering/3. Models (Waterfall, Prototype & Spiral).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,7 +218,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 14. Tools in Kali Linux"
+              "title": "Graph of 3. Models (Waterfall, Prototype & Spiral)"
             }
           }
         ]
@@ -223,10 +238,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0bbf896ff5411f01",
+  "active": "467ed94f07ff489f",
   "lastOpenFiles": [
+    "Software Engineering/2. SDLC and SRS.md",
+    "Software Engineering/3. Models (Waterfall, Prototype & Spiral).md",
+    "Software Engineering/1. Introduction to Software Engineering.md",
+    "ETHICAL HACKING/1. Basics.md",
+    "ETHICAL HACKING/2. Networking.md",
+    "Software Engineering",
     "ETHICAL HACKING/13. Kali Linux (Intro).md",
+    "Past Papers Questions/Paper 2.md",
+    "Past Papers Questions/Paper 1.md",
+    "papers/Paper 2.md",
+    "papers/Paper 1.md",
+    "2025-04-09.md",
+    "Paper 1.md",
+    "Paper 2.md",
+    "papers",
     "ETHICAL HACKING/14. Tools in Kali Linux.md",
+    "README.md",
     "ETHICAL HACKING/14. Kali Linux Pt.2.md",
     "ETHICAL HACKING/6. Network Protocols.md",
     "ETHICAL HACKING/5. Models.md",
@@ -234,10 +264,8 @@
     "ETHICAL HACKING/8. DNS.md",
     "ETHICAL HACKING/4. Protocols.md",
     "ETHICAL HACKING/12. Linux.md",
-    "ETHICAL HACKING/1. Basics.md",
     "ETHICAL HACKING/11. Wireshark.md",
     "ETHICAL HACKING/10. Network Packets.md",
-    "README.md",
     "LICENSE",
     "obsidian/README.md",
     "obsidian/LICENSE",
@@ -245,17 +273,11 @@
     "2-Linux",
     "ETHICAL HACKING/9. Request VS Response.md",
     "ETHICAL HACKING/7. TCP Working.md",
-    "ETHICAL HACKING/3. Ports.md",
-    "ETHICAL HACKING/2. Networking.md",
     "7.",
     "Ethical Hacking/Untitled",
     "ETHICAL HACKING",
-    "PYTHON.md",
-    "2024-11-12.md",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
-    "Untitled.canvas",
-    "Basics.md",
-    "Python"
+    "Untitled.canvas"
   ]
 }
