@@ -4,49 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "039288e038be6c0b",
+        "id": "a3fd38efd9ba2014",
         "type": "tabs",
         "children": [
           {
-            "id": "1ccef339a4c6385c",
+            "id": "d402e1cea1abfed1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/4. Software Designing.md",
+                "file": "Software Engineering/7. Structure Analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Software Designing"
+              "title": "7. Structure Analysis"
             }
           },
           {
-            "id": "e2202f2341a01dd9",
+            "id": "7b924d46b35a45a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/5. Coupling & Cohesion.md",
+                "file": "Software Engineering/8. DFD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Coupling & Cohesion"
+              "title": "8. DFD"
             }
           },
           {
-            "id": "8683822976d68faa",
+            "id": "6fa73ebc84f7fa31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/6. FOD & OOD.md",
+                "file": "Software Engineering/9. Coding Standard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. FOD & OOD"
+              "title": "9. Coding Standard"
             }
           }
         ],
@@ -204,7 +204,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Software Engineering/6. FOD & OOD.md",
+                "file": "Software Engineering/9. Coding Standard.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -232,7 +232,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 6. FOD & OOD"
+              "title": "Graph of 9. Coding Standard"
             }
           }
         ]
@@ -252,19 +252,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "03c5a9e12f31d80e",
+  "active": "6fa73ebc84f7fa31",
   "lastOpenFiles": [
+    "Software Engineering/8. DFD.md",
+    "Software Engineering/9. Coding Standard.md",
+    "Software Engineering/7. Structure Analysis.md",
     "Software Engineering/5. Coupling & Cohesion.md",
     "Software Engineering/6. FOD & OOD.md",
-    "Untitled",
-    "Software Engineering/2. SDLC and SRS.md",
-    "Software Engineering/1. Introduction to Software Engineering.md",
-    "Software Engineering/3. Models (Waterfall, Prototype & Spiral).md",
-    "Software Engineering/4. Software Designing.md",
     "ETHICAL HACKING/1. Basics.md",
+    "ETHICAL HACKING/13. Kali Linux (Intro).md",
+    "Software Engineering/3. Models (Waterfall, Prototype & Spiral).md",
+    "Software Engineering/1. Introduction to Software Engineering.md",
+    "Software Engineering/2. SDLC and SRS.md",
+    "Untitled",
+    "Software Engineering/4. Software Designing.md",
     "ETHICAL HACKING/2. Networking.md",
     "Software Engineering",
-    "ETHICAL HACKING/13. Kali Linux (Intro).md",
     "Past Papers Questions/Paper 2.md",
     "Past Papers Questions/Paper 1.md",
     "papers/Paper 2.md",
@@ -281,9 +284,6 @@
     "ETHICAL HACKING/15. Tools in Kali Linux",
     "ETHICAL HACKING/8. DNS.md",
     "ETHICAL HACKING/4. Protocols.md",
-    "ETHICAL HACKING/12. Linux.md",
-    "ETHICAL HACKING/11. Wireshark.md",
-    "ETHICAL HACKING/10. Network Packets.md",
     "LICENSE",
     "obsidian/LICENSE",
     "obsidian",
